@@ -1,0 +1,15 @@
+Problem No. - 4 
+Problem name - Cricket
+Language used - Python
+Version - 3.8.6
+
+The code will not run on Python v2 as this version does not support random.choices()
+
+Domains Identified:
+1) team details- has states of the team playing
+2) active player - the two batsmen who are on the crease
+3) the probability board - for holding data from the probability table
+4) the score board - for holding player information like runs scored, balls used etc.
+5) match commentary - a class which prints every ball's details like player name, run scored etc.
+6) match summary - a class to print the match's summary
+7) main method - the main class
