@@ -3,7 +3,11 @@ Problem name - Cricket
 Language used - Python
 Version - 3.8.6
 
+
 The code will not run on Python v2 as this version does not support random.choices()
+
+This rep contains solution to the first part of the problem statement. Aim has been to use Object Oriented Programming to identify all the
+Domain objects represting a cricket game, as mentioned in the problem.
 
 Domains Identified:
 1) team details- has states of the team playing
